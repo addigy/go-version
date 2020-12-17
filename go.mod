@@ -1,1 +1,1 @@
-module github.com/hashicorp/go-version
+module github.com/addigy/go-version
